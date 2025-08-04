@@ -14,3 +14,7 @@ This repository contains code examples for a Golang tutorial.
 * [8_arrays](8_arrays) - Arrays in Golang
 * [closures](closures) - Closures in Golang
 * [variadic_functions](variadic_functions) - Variadic functions in Golang
+* [11_pointers](11_pointers) - Pointers in Golang
+* [12_structs](12_structs) - Structs in Golang
+* [13_interfaces](13_interfaces) - Interfaces in Golang
+* [14_channels](14_channels) - Channels in Golang
